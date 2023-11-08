@@ -1,4 +1,4 @@
-# Project 4: Nutri-Grade labels
+# Capstone (Grain Business Dashboard)
 
 ### Overview
 
